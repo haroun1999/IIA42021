@@ -16,3 +16,14 @@
  
 * running the model on a video:
  Video Link: https://drive.google.com/file/d/1A-xDvQ3FhzFJcKcqwDjVE1Yz7-USQF4N/view?usp=sharing
+
+
+
+# CREDITS
+**instructor: Mustapha Hamdi**
+
+**Students contributed:**
+* Haroun Abessi : abessiharoun@gmail.com
+* Rayen Tellissi: rayentellissi99@gmail.com
+* Saifeddine Amri: saifamri156@gmail.com
+* Yassine Hermi: yassine.hermi@insat.ucar.tn
