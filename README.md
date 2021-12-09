@@ -5,7 +5,8 @@
 * the detailed implementation is the ipynb file
 * the results of the training are the following:
 * loss :
- https://drive.google.com/file/d/19skHhMCgJP8_0f79kh24wHCyTLCe3PZL/view?usp=sharing
+
+![](https://github.com/haroun1999/IIA42021/blob/main/chart_yolov4-custom%20(1).png?raw=true)
 * running the detector on an image:
  https://drive.google.com/file/d/1X3S5GCEjJXdPoAwQ9Un_f5j2M5iZNbjo/view?usp=sharing
 * running the model on a video:
