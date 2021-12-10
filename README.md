@@ -20,7 +20,7 @@
 
 
 # CREDITS
-**instructor: Mustapha Hamdi**
+**instructor: Mustapha Hamdi: mustapha.hamdi@insat.ucar.tn**
 
 **Students contributed:**
 * Haroun Abessi : abessiharoun@gmail.com
